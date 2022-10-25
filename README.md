@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GLARKI
-- 👀 I’m interested in Hololens for AR and MDL 
-- 🌱 I’m currently learning Unity, C#, MRTK
-- 💞️ I’m looking to collaborate on SNT and UI
+- 👀 I’m interested in AR and MDL, currently workin on the HoloLens 2 for SNT purposes.
+- 🌱 I’m currently learning Unity & MRTK, C#/C++ & Python.
+- 💞️ I’m looking to collaborate on SNT and UI/UX, automatic segmentation for US/CT/MRI.
 - 📫 How to reach me: Not sure yet, but I'm always @ work!
 
 <!---
