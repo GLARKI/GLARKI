@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GLARKI - Contact me via LinkedIn [Gijs Luijten](https://www.linkedin.com/in/gijsl)
+- 👋 Hi, I’m @GLARKI - Contact me via LinkedIn [Gijs Luijten](https://www.linkedin.com/in/gijsl) [Google Scholar](https://scholar.google.com/citations?hl=en&user=CsuA6JYAAAAJ)
 - 👀 I’m interested in AR and MDL, currently workin on the HoloLens 2 for SNT purposes.
 - 🌱 I’m currently learning Unity & MRTK, C# & C++, Open3D & OpenCV and Numpy, Linux and Python
 - 💞️ I’m looking to collaborate on SNT and mixed reality UI/UX, automatic segmentation for US/CT/MRI, etc.
