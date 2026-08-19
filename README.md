@@ -5,7 +5,7 @@
 - 📫 How to reach me: LinkedIn or Via one of the websites I maintain. I'm very approachable!
 - Current project sites (#Disclaimer -> might be outdated)
   - [xrlab](https://xrlab.ikim.nrw/)
-  - [MedShapeNet](https://medshapenet.ikim.nrw/) -> including [MICCAI Tutorial 2024](https://medshapenet-miccai-tutorial.ikim.nrw/)
+  - [MedShapeNet](https://medshapenet.ikim.nrw/) -> including MICCAI Tutorials and Workshops #ShapeMI)
   - [DREAMING](https://dreaming.ikim.nrw/)
   - [Google Scholar](https://scholar.google.com/citations?hl=en&user=CsuA6JYAAAAJ)
   - [YouTube](https://www.youtube.com/@ARfun)
